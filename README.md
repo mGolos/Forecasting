@@ -1,6 +1,6 @@
 ![](https://storage.googleapis.com/kaggle-competitions/kaggle/30894/logos/header.png)
 # Prédiction de crypto-monnaies
-Dans le [concours de prédiction G-Research Crypto](https://www.kaggle.com/c/g-research-crypto-forecasting), les participants ont le défi de prédire les rendements des prix sur un ensemble de crypto-monnaies majeures. 
+Dans le [concours de prédiction G-Research Crypto](https://www.kaggle.com/c/g-research-crypto-forecasting), les participants ont le défi de prédire les rendements des prix sur un ensemble de crypto-monnaies majeures. Les [données](https://www.kaggle.com/c/g-research-crypto-forecasting/data) correspondant aux 4 dernières années. 
 
 ## Crypto-monnaies
 Elles sont devenues un marché extrêmement populaire et volatile, offrant des rendements massifs (ainsi que des pertes) aux investisseurs. 
