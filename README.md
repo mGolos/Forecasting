@@ -10,4 +10,3 @@ Par exemple, Bitcoin a toujours été un moteur majeur des changements de prix e
 
 # Environnement
 * Installation : `conda create --name forecasting --file requirements.txt -c pypi --yes`
-* Mise à jour : `conda env update --name forecasting --file requirements.txt --prune`
